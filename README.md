@@ -1,6 +1,6 @@
 # Using Smartphone as a rotational input (Scroll Wheel)
 
-**This is a proof of concept of a novel method that uses a smarphone to ** 
+*This is a proof of concept of a novel method that uses a smarphone to augment user interfaces with on-screen circular menus* 
 
 This Processing Sketch is a proof of concept of a "Do-It-Yourself" Surface Dial-like interface that uses a regular smartphone (with an accelerometer and a proximity sensor) to control a circular menu UI. 
 
