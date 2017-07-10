@@ -9,7 +9,8 @@ This Processing Sketch is a proof of concept of a "Do-It-Yourself" Surface Dial-
 > To run this Sketch you will need Processing 3+, [Processing Android Capture](https://github.com/onlylemi/processing-android-capture/) and the Processing Android Capture app running on your Android phone
 
 ## Demonstration
-[![Phone as a Scroll Wheel (DIY Surface Dial)](http://img.youtube.com/vi/fdGWuvw3c7U/0.jpg)](http://www.youtube.com/watch?v=fdGWuvw3c7U)
+
+[![Phone as a Scroll Wheel (DIY Surface Dial)](http://i.imgur.com/odxsA0j.gif)](http://www.youtube.com/watch?v=fdGWuvw3c7U)
 
 ## CONTACT
 **Email:** wassgha(AT)gmail.com  
